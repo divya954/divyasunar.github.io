@@ -1,0 +1,150 @@
+
+	
+
+	span > a:link, a:visited{
+		color:black;
+		background-color:#C15505;
+		text-decoration:none;
+		border-left:black 2px solid;
+		padding-left:4px;
+
+	}
+
+
+   span > a:hover, a:active{
+		
+		background-color:#BF31F4;
+		text-decoration:none;
+		border-top:#72029C 2px solid;
+		padding-left:5px;
+		padding-top:1px;
+		border-left:none;
+
+
+	}
+
+
+	h1{
+		color:#1C0E00;
+	}
+
+	p{
+		line-height: 130%;
+		text-indent:25px;
+	}
+
+	ul{
+		font-weight:bold;
+		list-style-image:url(arrow.png);
+
+	}
+	
+
+
+	ol{
+		font-style:italic;
+	}
+	
+	h4{
+		color:red;font-style: italic;
+	}
+
+	h1{
+		text-align:center;
+
+
+	}
+
+
+	body{
+
+		background-color:orange;
+		color:#301801;
+		background-image:url(screenshot.png);
+		background-repeat:no-repeat;
+		background-position: 50% 60px;
+	}
+
+	img{
+		padding:20px;
+		
+		border-top:red 3px solid;
+
+		border-bottom:red 3px solid;
+		position:relative;
+		left:5px;
+		max-height:200px;
+		max-width:300px;
+		
+
+
+	}
+
+	hr{
+		color:#9909CF;
+		width:800px;
+		height:2px;
+		background-color:#9909CF;
+		
+	}
+	span{
+		color:green;
+		
+
+	}
+
+	.h4resume{
+		color:#034112;
+	}
+	.h4dataentry,.h4dataresume{
+		color:#630B18;
+		font-size:18px;
+	}
+	.h4email{
+		color:#0078A5;
+	}
+	.widepaddata{
+		padding-right:22.5px;
+	}
+
+	
+	#email{
+			position:absolute;
+			left:40%;
+	}
+
+
+	
+
+p:first-letter{
+	font-size:25px;
+}
+
+#top{
+
+	position:fixed;
+	top:90%;
+	left:90%;
+	color:pink;
+	background-color:grey;
+	text-decoration: none;
+	border:2px solid black;
+
+}
+
+
+h1:first-letter{
+	color:green;
+
+
+}
+	table{
+		border:2px solid green;
+		color:black;
+	}
+	tr{
+		background-color:red;
+	}
+	td,th{
+		border:solid green 2px;
+	}

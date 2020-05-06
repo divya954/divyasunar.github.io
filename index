@@ -1,0 +1,148 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "htt://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+
+
+<head>
+
+<title>
+personalwebsite
+</title>
+<link rel="stylesheet" type="text/css" href="personalwebsitestyle.css"/>
+
+
+</head>
+
+<body>
+
+<h1><a name="heading"></a>Divya B.K</h1>
+<!---learning to up image--->
+
+
+	<div id="image"><img src="myfaceresized.jpg"/></div>
+	<!---<img src="myface.jpg" height="250"/> -- hiding it--->
+
+
+
+<div id="intro"
+<p>hi, I am <strong><span>Divya  B.K.</span></strong> and <br /> I am <em>learning </em>to build websites</p>
+</div>
+
+
+
+
+<!---this is how you write comment as a sticky note for your reminder--->
+<div id="pagelinks">
+ <span>
+<br/>
+<a href="second.html" title="know me more : )">click here</a> to know more about me.
+<br/>
+<a href="workingpage.html">click here</a> to see my work in progress.<br/>
+<a href="https://www.facebook.com/">click here</a> to visit my facebook page.
+<br/>
+<a href="https://www.instagram.com/div_yasunar/">click here</a> to follow me on instagram.
+</spa>
+</div>
+
+<!---we are learning to creat a link on the same webpage-->
+
+
+<div id="resumelink">
+	<span>
+<h4 class="h4resume">MY RESUME</h4> 
+
+<a href="#1stcv">Data entry coverletter</a><br />
+<a href="#1stresume" class="widepaddata">Data entry resume</a>
+</span>
+</div>
+
+ 
+<hr />
+<div id="coverletter">
+<h4 class="h4dataentry"><a name="1stcv"></a>Data entry coverletter</h4>
+<p>HI, I am  a Professional Data entry typist. I can process all the various type of data such as public data , customer support data, manufacturing data , research data and many more.  I can update, add or maintain data as per your requirement.  I can verify the data  as per the company plan and policies. Furthermore. I have experience of feeding data into computer from all the sources like legal document , book, hand written copies, forms and images.  
+Adding subtitles to the video for S.E.O enhancement, transforming the audio/sound data into written format etc are some of other services which i provide as a data entry professional.</p>
+
+<p>Along with that, I have a wide range of knowledge in computer operations, I am really familiar with Microsoft office software, especially ms word and excel, i consider myself an expert in using two those applications. </p>
+
+<p>I have previously worked in different organization as a copy typist and I am grateful for being able to learn so much to be a best personal in this field. As an employee I have produced monthly reports using advanced Excel spreadsheet functions. Organized forms, made photocopies, filed records and prepared correspondence and reports. Assisted with receptionist duties, files organization and research and development. In addition to that  I have obtained scanned records and uploaded them into the database.</p>
+
+
+<p>I have a typing speed of more than 70 wpm with accuracy of more than 98%. I am fluent in English and good in spelling correction and detecting grammar's mistake.  I have a strong punctuation skills , reading and writing ability.  Moreover, I have an excellent communication English skills.</p>
+
+<p>So if you are in need of one of the best copy typist or data entry clerk in this site in a short time period.  Please feel free to contact me and we can discuss the type of work you want to get done, and when and under what time.</p>
+
+<p>Thank you very much for considering my application!<br/>
+Have a nice day!
+</p>
+</div>
+<hr />
+
+
+
+
+<div id="resume">
+<h4 class="h4dataresume"><a name="1stresume"></a>Data entry resume</h4>
+<p>
+<em>Hello  I’m <strong>Divya B K</strong>  <br />
+2/176 harrow rd,<br />
+kogarah ,2217  NSW, sydney ,australia<br />
+Mobile: 0447646558 <br />
+Email: divyabk54@gmail.com</em>
+</p>
+<h3>PROFESSIONAL SUMMARY </h3>
+<p>
+Dedicated  and focused data entry professional who excels at prioritizing, completing multiple tasks  simultaneously and following through <br />to achieve project goals. Experienced with processing title  work collections and delinquent accounts. Seeking a role of increased responsibility. 
+</p>
+ 
+<h3>Skillls</h3>
+<ul>
+	<li> Database management </li>
+	<li> Report development </li>
+	<li> Professional and mature </li>
+	<li>Accurate and detailed </li> 
+	<li> Word processing </li>
+	<li>Microsoft excel and word expert</li>
+	<li> Fast typist</li>
+</ul>
+ 
+ 
+<h3>Experience</h3>
+<p>
+<em>6th May 2019 to 8th april  2020 </em><br/> 
+<strong>Data Entry Clerk​ - Meriton zetland </strong> 
+<ol>
+ <li>Produced monthly reports using advanced Excel spreadsheet functions. </li>
+ <li>Organized forms, made photocopies, filed records and prepared correspondence and  reports</li>
+ <li>Assisted with receptionist duties, files organization and research and development </li>
+ <li>Obtained scanned records and uploaded them into the database.</li>
+</ol>
+ </p>
+<em>7th oct 2018 to 11th feb 2020</em><br />
+<strong>Title processor​ - Global AI ltd </strong>
+<ol> 
+	<li> Register customer information with manufacturers.</li>
+	<li> Maintain a database of inventory and invoicing in lightspeed  software</li>
+	<li>General office duties including answering phones, typing,, data processing, copy typing and  running errands</li>
+</ol> 
+<h3>Education </h3>
+
+<em>25th April 2019 to 24th april 2020</em> <br />
+<strong>Sydney school of business and technology​</strong>
+ - Diploma of business administration <br />
+  <em>27th April 2020 to 24th current</em>  <br />
+<strong>Sydney school of business and technology​ </strong>
+-Advance diploma of business
+  
+
+
+</div>
+<hr  />
+
+<div id="email"><h4 class="h4email">Email me at: divyabk54@gmail.com</h4><div>
+<a href="#heading" id="top">Back to top</a>
+<a href="askme.html" >Ask me a question!</a>
+</body>
+
+</html>
